@@ -6,3 +6,7 @@ zkSNARKs library implementation of Groth16 protocol
 
 + `Succinct non-interactive zero knowledge for a von Neumann architecture` Ben-Sasson, Eli, Alessandro Chiesa, Eran Tromer, and Madars Virza.    [https://eprint.iacr.org/2013/879.pdf](https://eprint.iacr.org/2013/879.pdf)
 
+
+
+# goal
+- [ ] Improve efficiency (Concurrency e.g. channel) 
