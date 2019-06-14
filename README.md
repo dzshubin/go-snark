@@ -9,5 +9,6 @@ zkSNARKs library implementation of Groth16 protocol
 
 
 # goal
-- [ ] Improve efficiency (Concurrency e.g. channel) 
 - [ ] Convert any go function to QAP (with the assistance of libsnark)
+- [ ] Improve efficiency (Concurrency e.g. channel) 
+
